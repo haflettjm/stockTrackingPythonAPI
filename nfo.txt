@@ -1,0 +1,2 @@
+KEY = B2R3RJ0M9CYKA0NG, 
+URL = "https://www.alphavantage.co/query?"
