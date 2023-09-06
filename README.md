@@ -1,0 +1,2 @@
+# stockTrackingPythonAPI
+simpleStockTrackingAPI application
